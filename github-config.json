@@ -1,6 +1,6 @@
  {
       "client_id": "c035b32c5416eb7073a0",
-      "client_secret": "cafcaecc535d6768a04d7b9d85b04999b11dfc13",
+      "client_secret": "",
       "redirect_uri": "https://github.com/T-xiza/Markdown-Repository.git",
       "callback_url": "https://dillinger.io/" 
  }
